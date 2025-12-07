@@ -1,0 +1,17 @@
+<script>
+	import "@evidence-dev/tailwind/fonts.css";
+	import "../app.css";
+	import { EvidenceDefaultLayout } from "@evidence-dev/core-components";
+	export let data;
+</script>
+
+<EvidenceDefaultLayout
+	{data}
+	builtWithEvidence=false
+	title="Centre Ceramique DB"
+    homePageName = "Introductie"
+    maxWidth=1400
+	neverShowQueries=false
+>
+	<slot slot="content" />
+</EvidenceDefaultLayout>
