@@ -4,8 +4,8 @@ title: "Cultuurmonitor Maastricht (Mock-up)"
 
 # Cultuurmonitor Maastricht
 
-Deze dashboard is een **mock-up** voor het monitoren van de impact van de culturele sector in de gemeente Maastricht.  
-De opzet is gebaseerd op het impactmodel en de Theory of Change van Centre Céramique en de gemeente Maastricht.
+Deze dashboard is een **mock-up** voor het monitoren van de impact van Centre Céramique.
+De opzet is gebaseerd op het impactmodel en de Theory of Change van Centre Céramique.
 
 We volgen drie organisatiedelen:
 
