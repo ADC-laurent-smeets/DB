@@ -9,7 +9,7 @@
     "sources": "evidence sources",
     "sources:strict": "evidence sources --strict",
     "preview": "evidence preview"
-  }
+  },
   "engines": {
     "npm": ">=7.0.0",
     "node": ">=18.0.0"
