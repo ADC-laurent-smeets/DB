@@ -50,7 +50,7 @@ order by wijk_code
 <AreaMap
   data={participants_map}
   areaCol=wijk_name
-  geoJsonUrl="/maastricht_buurten.geojson"
+  geoJsonUrl="./maastricht_buurten.geojson"
   geoId=wijk_name
   value=share_of_total
   valueFmt=pct1
